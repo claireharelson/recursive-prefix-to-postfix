@@ -1,0 +1,17 @@
+ABC+-
+ABC+-
+ABCDEF-+-+$
+ABCDEEF*-+$*-
+ABCCBA-++**
+ABC+/
+ABCCBA-++$*
+ABCCBA-+^$*
+
+Statement of size 6 took 23000ns to convert from prefix to postfix.
+Statement of size 6 took 11000ns to convert from prefix to postfix.
+Statement of size 12 took 28000ns to convert from prefix to postfix.
+Statement of size 14 took 25000ns to convert from prefix to postfix.
+Statement of size 12 took 21000ns to convert from prefix to postfix.
+Statement of size 12 took 10000ns to convert from prefix to postfix.
+Statement of size 12 took 22000ns to convert from prefix to postfix.
+Statement of size 11 took 21000ns to convert from prefix to postfix.

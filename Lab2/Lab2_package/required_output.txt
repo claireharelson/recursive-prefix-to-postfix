@@ -1,0 +1,9 @@
+ABC+-
+ABC+-
+ABCDEF-+-+$
+ABCDEEF*-+$*-
+ABCCBA-++**
+ABC+/
+ABCBA+-*-*
+ABCBA--/+/
+ABCCBA-++$*
